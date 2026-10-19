@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="20.0" y="30.0" font-size="16" fill="#111827" text-anchor="start" font-weight="bold">Live paper trading, first 2 hours: skipping safety checks was the costliest mistake</text>
+<text x="20.0" y="50.0" font-size="12" fill="#6b7280" text-anchor="start" font-weight="normal">Wallet value per strategy (each starts at $1,000). Blue = hodl benchmark, red = no safety checks.</text>
+<line x1="60" y1="420.0" x2="590" y2="420.0" stroke="#e5e7eb"/>
+<text x="54.0" y="424.0" font-size="11" fill="#6b7280" text-anchor="end" font-weight="normal">$0</text>
+<line x1="60" y1="340.5" x2="590" y2="340.5" stroke="#e5e7eb"/>
+<text x="54.0" y="344.5" font-size="11" fill="#6b7280" text-anchor="end" font-weight="normal">$250</text>
+<line x1="60" y1="260.9" x2="590" y2="260.9" stroke="#e5e7eb"/>
+<text x="54.0" y="264.9" font-size="11" fill="#6b7280" text-anchor="end" font-weight="normal">$500</text>
+<line x1="60" y1="181.4" x2="590" y2="181.4" stroke="#e5e7eb"/>
+<text x="54.0" y="185.4" font-size="11" fill="#6b7280" text-anchor="end" font-weight="normal">$750</text>
+<line x1="60" y1="101.8" x2="590" y2="101.8" stroke="#e5e7eb"/>
+<text x="54.0" y="105.8" font-size="11" fill="#6b7280" text-anchor="end" font-weight="normal">$1,000</text>
+<text x="60.0" y="446.0" font-size="11" fill="#6b7280" text-anchor="start" font-weight="normal">2026-10-18 21:01</text>
+<text x="590.0" y="446.0" font-size="11" fill="#6b7280" text-anchor="end" font-weight="normal">23:01</text>
+<polyline points="60.0,101.8 126.4,101.8 192.6,101.8 258.9,101.8 325.2,101.8 391.4,101.4 457.6,101.8 523.8,101.2 590.0,101.1" fill="none" stroke="#9ca3af" stroke-width="1.2"/>
+<polyline points="60.0,101.8 126.4,101.8 192.6,101.8 258.9,101.8 325.2,101.8 391.4,101.8 457.6,101.8 523.8,101.8 590.0,101.8" fill="none" stroke="#9ca3af" stroke-width="1.2"/>
+<polyline points="60.0,101.8 126.4,101.8 192.6,102.3 258.9,102.3 325.2,103.5 391.4,103.4 457.6,105.6 523.8,105.9 590.0,106.5" fill="none" stroke="#9ca3af" stroke-width="1.2"/>
+<polyline points="60.0,101.8 126.4,101.8 192.6,101.8 258.9,101.8 325.2,101.8 391.4,101.4 457.6,101.8 523.8,101.2 590.0,101.1" fill="none" stroke="#9ca3af" stroke-width="1.2"/>
+<polyline points="60.0,101.8 126.4,101.8 192.6,101.8 258.9,101.8 325.2,101.8 391.4,101.4 457.6,101.8 523.8,101.2 590.0,101.1" fill="none" stroke="#9ca3af" stroke-width="1.2"/>
+<polyline points="60.0,101.8 126.4,99.6 192.6,106.6 258.9,116.5 325.2,120.8 391.4,130.6 457.6,138.1 523.8,139.8 590.0,142.3" fill="none" stroke="#9ca3af" stroke-width="1.2"/>
+<polyline points="60.0,101.8 126.4,99.6 192.6,106.6 258.9,116.5 325.2,120.8 391.4,130.6 457.6,138.1 523.8,139.8 590.0,142.3" fill="none" stroke="#9ca3af" stroke-width="1.2"/>
+<polyline points="60.0,101.8 126.4,99.6 192.6,106.6 258.9,116.5 325.2,120.8 391.4,130.4 457.6,138.1 523.8,139.5 590.0,141.9" fill="none" stroke="#9ca3af" stroke-width="1.2"/>
+<polyline points="60.0,101.8 126.4,101.8 192.6,101.8 258.9,101.8 325.2,102.1 391.4,102.1 457.6,102.1 523.8,102.1 590.0,102.1" fill="none" stroke="#9ca3af" stroke-width="1.2"/>
+<polyline points="60.0,101.8 126.4,96.7 192.6,99.1 258.9,100.3 325.2,100.3 391.4,100.3 457.6,103.9 523.8,105.7 590.0,110.1" fill="none" stroke="#9ca3af" stroke-width="1.2"/>
+<polyline points="60.0,101.8 126.4,104.5 192.6,111.7 258.9,109.7 325.2,109.6 391.4,114.3 457.6,116.5 523.8,118.3 590.0,126.1" fill="none" stroke="#9ca3af" stroke-width="1.2"/>
+<polyline points="60.0,101.8 126.4,104.5 192.6,111.7 258.9,109.7 325.2,109.6 391.4,114.1 457.6,116.5 523.8,117.9 590.0,125.7" fill="none" stroke="#9ca3af" stroke-width="1.2"/>
+<polyline points="60.0,101.8 126.4,101.0 192.6,101.1 258.9,100.1 325.2,100.5 391.4,99.2 457.6,100.7 523.8,99.5 590.0,98.6" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<polyline points="60.0,101.8 126.4,118.8 192.6,172.5 258.9,162.4 325.2,201.5 391.4,279.1 457.6,280.8 523.8,285.4 590.0,311.5" fill="none" stroke="#dc2626" stroke-width="2.5"/>
+<polyline points="60.0,101.8 126.4,122.3 192.6,160.8 258.9,152.9 325.2,181.0 391.4,259.0 457.6,259.9 523.8,268.7 590.0,281.1" fill="none" stroke="#dc2626" stroke-width="2.5"/>
+<text x="598.0" y="102.6" font-size="11" fill="#2563eb" text-anchor="start" font-weight="normal">hodl $1,010</text>
+<text x="598.0" y="115.6" font-size="11" fill="#6b7280" text-anchor="start" font-weight="normal">momentum_trail $1,002</text>
+<text x="598.0" y="128.6" font-size="11" fill="#6b7280" text-anchor="start" font-weight="normal">momentum_moonbag $1,002</text>
+<text x="598.0" y="141.6" font-size="11" fill="#6b7280" text-anchor="start" font-weight="normal">momentum $1,002</text>
+<text x="598.0" y="154.6" font-size="11" fill="#6b7280" text-anchor="start" font-weight="normal">dip_buyer $1,000</text>
+<text x="598.0" y="167.6" font-size="11" fill="#6b7280" text-anchor="start" font-weight="normal">ma_trend $999</text>
+<text x="598.0" y="180.6" font-size="11" fill="#6b7280" text-anchor="start" font-weight="normal">ma_crossover $985</text>
+<text x="598.0" y="193.6" font-size="11" fill="#6b7280" text-anchor="start" font-weight="normal">new_pullback $974</text>
+<text x="598.0" y="206.6" font-size="11" fill="#6b7280" text-anchor="start" font-weight="normal">combo_once $925</text>
+<text x="598.0" y="219.6" font-size="11" fill="#6b7280" text-anchor="start" font-weight="normal">new_safe_once $924</text>
+<text x="598.0" y="232.6" font-size="11" fill="#6b7280" text-anchor="start" font-weight="normal">combo $874</text>
+<text x="598.0" y="245.6" font-size="11" fill="#6b7280" text-anchor="start" font-weight="normal">new_safe_trail $873</text>
+<text x="598.0" y="258.6" font-size="11" fill="#6b7280" text-anchor="start" font-weight="normal">new_safe_moonbag $873</text>
+<text x="598.0" y="285.1" font-size="11" fill="#dc2626" text-anchor="start" font-weight="normal">new_unsafe_once $436</text>
+<text x="598.0" y="315.5" font-size="11" fill="#dc2626" text-anchor="start" font-weight="normal">new_unsafe_trail $341</text>
+</svg>

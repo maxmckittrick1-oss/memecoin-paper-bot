@@ -1,0 +1,24 @@
+# Secrets - never commit these
+.env
+*.key
+*_key.txt
+helius_key.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Live run output (regenerated every run; can grow large)
+state.json
+state.json.tmp
+trades.csv
+equity.csv
+scanned_coins.csv
+backtest_report.txt
+*.log
+old-run-*/
+
+# Downloaded price history (tens of MB; backtest.py re-downloads it)
+data/

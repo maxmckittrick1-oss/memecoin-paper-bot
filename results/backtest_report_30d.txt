@@ -1,0 +1,23 @@
+
+Backtest 2026-09-19 01:19 -> 2026-10-19 00:46 UTC (30.0 days), $1,000 per strategy
+
+How each coin did over the period (buy at start, hold to end):
+  BONK         -2.8%
+  WIF          -6.6%
+  POPCAT      -12.2%
+  FARTCOIN    -10.8%
+  PENGU        -4.6%
+  MEW          -2.1%
+
+strategy           end value   return  trades  open  win % worst drop  1st half  2nd half
+dip_buyer         $   962.24    -3.8%      20     2     30      21.1%     +8.9%    -11.6%
+hodl              $   932.62    -6.7%       0     6      -      31.5%    +17.4%    -20.6%
+momentum_trail    $   865.88   -13.4%       5     3     20      31.6%     +4.4%    -17.1%
+momentum_moonbag  $   865.88   -13.4%       5     3     20      31.6%     +4.4%    -17.1%
+momentum          $   789.95   -21.0%      22     3     18      31.9%     -5.3%    -16.6%
+ma_trend          $   596.58   -40.3%      86     3     24      41.9%    -25.2%    -20.2%
+ma_crossover      $     1.00   -99.9%    1253     0      7      99.9%    -99.9%     +0.0%
+
+'trades' = completed sells; 'open' = positions still held at the end (valued at the
+last price). 'worst drop' = biggest fall from a high point along the way.
+A strategy worth trusting beats hodl in BOTH halves, not just overall.
